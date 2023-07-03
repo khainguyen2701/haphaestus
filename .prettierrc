@@ -1,0 +1,16 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "semi": true,
+  "printWidth": 100,
+  "useTabs": false,
+  "importOrder": [
+    "^react\\w*|prop-types",
+    "<THIRD_PARTY_MODULES>",
+    "^@material-ui/(.*)$",
+    "^[./]|^app/\\w+"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
